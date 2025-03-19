@@ -1,7 +1,6 @@
 # CROP-RECOMMENDATION-SYSTEM
 CROP RECOMMENDATION SYSTEM
 🌾 Smart Crop Recommendation System using Machine Learning and Python
-🌾 Smart Crop Recommendation System using Machine Learning and Python
 📌 Project Overview
 This project is a Smart Crop Recommendation System that suggests the best crop for cultivation based on soil and weather parameters. The system utilizes Machine Learning algorithms to analyze environmental factors such as Nitrogen, Phosphorus, Potassium, Temperature, Humidity, pH, and Rainfall to recommend the most suitable crop.
 
